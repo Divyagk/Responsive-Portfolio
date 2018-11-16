@@ -342,12 +342,18 @@ input[type=submit] {
   margin-left: 5%;
    }
   
-  
-  
+}
 
- 
+.main-section{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(186, 132, 236);
+  font-style: bold;
 
- }
+
+}
+a:hover {
+  background-color:rgb(238, 139, 139);
+}
 
 
 
