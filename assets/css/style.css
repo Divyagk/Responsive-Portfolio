@@ -13,7 +13,7 @@ body {
 /* general */
 
 .container {
-  width: 100%;
+  width: 60%;
   max-width: 960px;
   margin: 0 auto;
   clear: both;
@@ -358,4 +358,21 @@ a:hover {
 
 
   
- 
+#sidebar {
+	background-color: #ffffff;
+	width: 250px;
+	height: 200px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #dddddd;
+	margin-top: 38px;
+	margin-left: 800px;
+}
+
+.container2{
+
+  
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5;
+}
